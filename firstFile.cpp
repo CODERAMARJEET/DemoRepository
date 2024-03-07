@@ -1,3 +1,4 @@
-int main(){
-return 0;
+public static void main(String arg[])
+{
+    System.out.println("amarjeet");
 }
